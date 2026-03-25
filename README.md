@@ -18,7 +18,7 @@
 
 The participant who finds the **highest number of Easter eggs by April 20th** will be awarded:
 
-* You will be able to showcase an official badge on your profile (e.g. LinkedIn)
+* You will be able to showcase an official badge on your GitHub profile
 * You will also receive a **free ticket** to attend an important coding event 🎟️
 
 ### 🚀 Ready to start?
