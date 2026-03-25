@@ -1,6 +1,6 @@
-## 🐰🥚 Easter Egg Hunt @ Openapi
+# 🐰🥚 Easter Egg Hunt @ Openapi
 
-Welcome to our Easter Egg Hunt!
+> Welcome to our Easter Egg Hunt!
 
 ### 📅 How it works
 
