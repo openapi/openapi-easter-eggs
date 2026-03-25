@@ -1,6 +1,6 @@
 # 🐰🥚 Easter Egg Hunt @ Openapi
 
-Welcome to our Easter Egg Hunt!
+*Welcome to our Easter Egg Hunt!*
 
 ### 📅 How it works
 
@@ -28,6 +28,4 @@ The participant who finds the **highest number of Easter eggs by April 20th** wi
 
 ### 🚀 Ready to start?
 
-🐰 Follow the rabbit
-🥚 Find the eggs
-🏆 Win the challenge
+🐰 Follow the rabbit ➜ 🥚 Find the eggs ➜ 🏆 Win the challenge
