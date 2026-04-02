@@ -30,6 +30,6 @@ To celebrate the dedication of our most thorough contributors who submit their f
 
 🐰 Follow the rabbit ➜ 🥚 Find the eggs ➜ 🌟 Shine in the community
 
-### Legal notes
+### 📜 Legal notes
 
 **Please note:** *This initiative does not constitute a prize competition, as it is aimed at refining software projects and recognizing the personal merit of the participants.*
