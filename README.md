@@ -4,8 +4,8 @@
 
 ### 📅 How it works
 
-* On **April 6th**, we will publish in this repository a list of **3 repositories** containing hidden *easter eggs*.
-* Your goal is to explore them and discover as many easter eggs as possible.
+* On **April 7th**, we will publish in this repository a list of **3 repositories** containing hidden *easter eggs*.
+* Your goal is to explore them and discover as many easter eggs as possible until the **April 21th** included.
 
 > **💡 Pro Tip**: Watch this repository to receive notifications when the list of repositories is published.
 > 
@@ -19,13 +19,17 @@
 3. Go to this issue: [🐰🥚 Easter Egg Hunt 2026 — Submissions](https://github.com/openapi/openapi-easter-eggs/issues/1)
 4. Leave a comment indicating **how many easter eggs you found**
 
-### 🏆 Prize
+### 👾 Showcase your skills
 
-The participant who finds the **highest number of Easter eggs by April 20th** will be awarded:
+To celebrate the dedication of our most thorough contributors who submit their findings by **April 21th**:
 
-* You will be able to showcase an official badge on your GitHub profile
-* You will also receive a **free ticket** to attend an important coding event 🎟️
+* Digital Badge: You will be eligible to showcase an official badge on your GitHub profile.
+* Special invitation: The contributor who demonstrates the highest level of technical precision and analytical skill will receive a complimentary ticket to attend We Make Future (WMF), Italy’s largest event on digital innovation, artificial intelligence, and technology, in recognition of their exceptional technical merit.
 
 ### 🚀 Ready to start?
 
-🐰 Follow the rabbit ➜ 🥚 Find the eggs ➜ 🏆 Win the challenge
+🐰 Follow the rabbit ➜ 🥚 Find the eggs ➜ 🌟 Shine in the community
+
+### Legal notes
+
+**Please note:** *This initiative does not constitute a prize competition, as it is aimed at refining software projects and recognizing the personal merit of the participants.*
