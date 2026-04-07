@@ -15,9 +15,12 @@
 ### 🔍 How to participate
 
 1. Explore the listed repositories
-2. Find the hidden Easter eggs
-3. Go to this issue: [🐰🥚 Easter Egg Hunt 2026 — Submissions](https://github.com/openapi/openapi-easter-eggs/issues/1)
-4. Leave a comment indicating **how many easter eggs you found**
+   - https://github.com/openapi/openapi-cli
+   - https://github.com/openapi/openapi-nodejs-sdk
+   - https://github.com/openapi/openapi-php-sdk
+3. Find the hidden Easter eggs
+4. Go to this issue: [🐰🥚 Easter Egg Hunt 2026 — Submissions](https://github.com/openapi/openapi-easter-eggs/issues/1)
+5. Leave a comment indicating **how many easter eggs you found**
 
 ### 👾 Showcase your skills
 
