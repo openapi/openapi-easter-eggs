@@ -7,7 +7,7 @@
 * On **April 7th**, we will publish in this repository a list of **3 repositories** containing hidden *easter eggs*.
 * Your goal is to explore them and discover as many easter eggs as possible until the **April 21th** included.
 
-> **💡 Pro Tip**: Watch this repository to get notified of new discoveries and see if anyone has found more than you.
+> **💡 Pro Tip**: Watch this repository for updates and see if anyone found more than you.
 > 
 > ![Watch this repo](.github/assets/images/hint.png)
 
